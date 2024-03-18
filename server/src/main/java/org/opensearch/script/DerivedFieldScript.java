@@ -27,7 +27,7 @@ import java.util.function.Function;
  *
  * @opensearch.internal
  */
-public class DerivedFieldScript {
+public abstract class DerivedFieldScript {
 
     public static final String[] PARAMETERS = {};
 
